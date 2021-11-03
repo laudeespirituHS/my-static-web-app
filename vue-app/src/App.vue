@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Hello World. Welcome to my new Static Web App"/>
+  <HelloWorld msg="Welcome to SocialWiz Static Web App"/>
 </template>
 
 <script>
